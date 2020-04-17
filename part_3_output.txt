@@ -1,0 +1,10 @@
+C:\Users\14389\Downloads\c346_W20_PA3\pa3-distro>java DiningPhilosophers -7.a
+"-7.a"is not a positive decimal integer
+
+Usage: java DiningPhilosophers [NUMBER_OF_PHILOSOPHERS]
+
+C:\Users\14389\Downloads\c346_W20_PA3\pa3-distro>java DiningPhilosophers -7
+Need to be positive .. Terminate now
+
+C:\Users\14389\Downloads\c346_W20_PA3\pa3-distro>java DiningPhilosophers 1
+At least two please .. Terminate now

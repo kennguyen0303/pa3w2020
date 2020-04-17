@@ -1,0 +1,287 @@
+C:\Users\14389\Downloads\c346_W20_PA3\pa3-distro>java DiningPhilosophers 3
+3 philosopher(s) came in for a dinner.
+People never eat: 3 is phils id: 1 eaten: ? false
+******I am,1, eating, how many talking: 0
+how many is eating: 1 enough chopstick: true
+People never eat: 2 is phils id: 3 eaten: ? false
+People never eat: 2 is phils id: 2 eaten: ? false
+Phil with id: 1 START eating
+Phil with id: 1 FINISH eating
+Phil with id: 1 START thinking
+******I am,2, eating, how many talking: 0
+how many is eating: 1 enough chopstick: true
+Phil with id: 2 START eating
+Phil with id: 1 FINISH thinking
+************random value: 2 for Thread: 1
+People never eat: 1 is phils id: 1 eaten: ? true
+Phil with id: 2 FINISH eating
+Phil with id: 2 START thinking
+******I am,3, eating, how many talking: 0
+how many is eating: 1 enough chopstick: true
+Phil with id: 3 START eating
+Phil with id: 2 FINISH thinking
+************random value: 1 for Thread: 2
+People never eat: 0 is phils id: 2 eaten: ? true
+Phil with id: 3 FINISH eating
+Phil with id: 3 START thinking
+******I am,2, eating, how many talking: 0
+how many is eating: 1 enough chopstick: true
+Phil with id: 2 START eating
+Phil with id: 3 FINISH thinking
+************random value: 2 for Thread: 3
+People never eat: 0 is phils id: 3 eaten: ? true
+Phil with id: 2 FINISH eating
+Phil with id: 2 START thinking
+******I am,3, eating, how many talking: 0
+how many is eating: 1 enough chopstick: true
+Phil with id: 3 START eating
+Phil with id: 3 FINISH eating
+Phil with id: 3 START thinking
+******I am,1, eating, how many talking: 0
+how many is eating: 1 enough chopstick: true
+Phil with id: 1 START eating
+Phil with id: 1 FINISH eating
+Phil with id: 1 START thinking
+Phil with id: 2 FINISH thinking
+************random value: 2 for Thread: 2
+Hello, TID: 2 getting request to talk
+Phil with id: 2 START talking
+
+Philosopher 2 says: My number is 2
+Phil with id: 2 FINISH talking
+
+People never eat: 0 is phils id: 2 eaten: ? true
+******I am,2, eating, how many talking: 0
+how many is eating: 1 enough chopstick: true
+Phil with id: 2 START eating
+Phil with id: 3 FINISH thinking
+************random value: 3 for Thread: 3
+Hello, TID: 3 getting request to talk
+Phil with id: 1 FINISH thinking
+************random value: 3 for Thread: 1
+People never eat: 0 is phils id: 1 eaten: ? true
+Phil with id: 2 FINISH eating
+Phil with id: 2 START thinking
+******I am,1, eating, how many talking: 0
+how many is eating: 1 enough chopstick: true
+Phil with id: 1 START eating
+Phil with id: 1 FINISH eating
+Phil with id: 1 START thinking
+Phil with id: 3 START talking
+
+Philosopher 3 says: My number is 3
+Phil with id: 3 FINISH talking
+
+People never eat: 0 is phils id: 3 eaten: ? true
+******I am,3, eating, how many talking: 0
+how many is eating: 1 enough chopstick: true
+Phil with id: 3 START eating
+Phil with id: 3 FINISH eating
+Phil with id: 3 START thinking
+Phil with id: 3 FINISH thinking
+************random value: 1 for Thread: 3
+People never eat: 0 is phils id: 3 eaten: ? true
+******I am,3, eating, how many talking: 0
+how many is eating: 1 enough chopstick: true
+Phil with id: 3 START eating
+Phil with id: 2 FINISH thinking
+************random value: 1 for Thread: 2
+People never eat: 0 is phils id: 2 eaten: ? true
+Phil with id: 1 FINISH thinking
+************random value: 1 for Thread: 1
+Hello, TID: 1 getting request to talk
+Phil with id: 3 FINISH eating
+Phil with id: 3 START thinking
+Phil with id: 1 START talking
+
+Philosopher 1 says: My number is 1
+Phil with id: 1 FINISH talking
+
+People never eat: 0 is phils id: 1 eaten: ? true
+******I am,2, eating, how many talking: 0
+how many is eating: 1 enough chopstick: true
+Phil with id: 2 START eating
+Phil with id: 2 FINISH eating
+Phil with id: 2 START thinking
+******I am,1, eating, how many talking: 0
+how many is eating: 1 enough chopstick: true
+Phil with id: 1 START eating
+Phil with id: 3 FINISH thinking
+************random value: 3 for Thread: 3
+Hello, TID: 3 getting request to talk
+Phil with id: 2 FINISH thinking
+************random value: 1 for Thread: 2
+People never eat: 0 is phils id: 2 eaten: ? true
+Phil with id: 1 FINISH eating
+Phil with id: 1 START thinking
+******I am,2, eating, how many talking: 0
+how many is eating: 1 enough chopstick: true
+Phil with id: 2 START eating
+Phil with id: 1 FINISH thinking
+************random value: 3 for Thread: 1
+People never eat: 0 is phils id: 1 eaten: ? true
+Phil with id: 2 FINISH eating
+Phil with id: 2 START thinking
+******I am,1, eating, how many talking: 0
+how many is eating: 1 enough chopstick: true
+Phil with id: 1 START eating
+Phil with id: 2 FINISH thinking
+************random value: 2 for Thread: 2
+Hello, TID: 2 getting request to talk
+Phil with id: 1 FINISH eating
+Phil with id: 1 START thinking
+Phil with id: 2 START talking
+
+Philosopher 2 says: My number is 2
+Phil with id: 2 FINISH talking
+
+People never eat: 0 is phils id: 2 eaten: ? true
+******I am,2, eating, how many talking: 0
+how many is eating: 1 enough chopstick: true
+Phil with id: 2 START eating
+Phil with id: 2 FINISH eating
+Phil with id: 2 START thinking
+Phil with id: 3 START talking
+
+Philosopher 3 says: My number is 3
+Phil with id: 3 FINISH talking
+
+People never eat: 0 is phils id: 3 eaten: ? true
+******I am,3, eating, how many talking: 0
+how many is eating: 1 enough chopstick: true
+Phil with id: 3 START eating
+Phil with id: 3 FINISH eating
+Phil with id: 3 START thinking
+Phil with id: 1 FINISH thinking
+************random value: 1 for Thread: 1
+Hello, TID: 1 getting request to talk
+Phil with id: 1 START talking
+
+Philosopher 1 says: EHH... I AM A GENIUS !!!!!!!!!
+Phil with id: 1 FINISH talking
+
+People never eat: 0 is phils id: 1 eaten: ? true
+******I am,1, eating, how many talking: 0
+how many is eating: 1 enough chopstick: true
+Phil with id: 1 START eating
+Phil with id: 2 FINISH thinking
+************random value: 3 for Thread: 2
+People never eat: 0 is phils id: 2 eaten: ? true
+Phil with id: 1 FINISH eating
+Phil with id: 1 START thinking
+******I am,2, eating, how many talking: 0
+how many is eating: 1 enough chopstick: true
+Phil with id: 2 START eating
+Phil with id: 1 FINISH thinking
+************random value: 1 for Thread: 1
+Hello, TID: 1 getting request to talk
+Phil with id: 2 FINISH eating
+Phil with id: 2 START thinking
+Phil with id: 1 START talking
+
+Philosopher 1 says: If thee cannot speak, thee must be silent
+Phil with id: 1 FINISH talking
+
+People never eat: 0 is phils id: 1 eaten: ? true
+******I am,1, eating, how many talking: 0
+how many is eating: 1 enough chopstick: true
+Phil with id: 1 START eating
+Phil with id: 3 FINISH thinking
+************random value: 2 for Thread: 3
+People never eat: 0 is phils id: 3 eaten: ? true
+Phil with id: 2 FINISH thinking
+************random value: 3 for Thread: 2
+People never eat: 0 is phils id: 2 eaten: ? true
+Phil with id: 1 FINISH eating
+Phil with id: 1 START thinking
+******I am,2, eating, how many talking: 0
+how many is eating: 1 enough chopstick: true
+Phil with id: 2 START eating
+Phil with id: 1 FINISH thinking
+************random value: 2 for Thread: 1
+People never eat: 0 is phils id: 1 eaten: ? true
+Phil with id: 2 FINISH eating
+Phil with id: 2 START thinking
+******I am,1, eating, how many talking: 0
+how many is eating: 1 enough chopstick: true
+Phil with id: 1 START eating
+Phil with id: 2 FINISH thinking
+************random value: 3 for Thread: 2
+People never eat: 0 is phils id: 2 eaten: ? true
+Phil with id: 1 FINISH eating
+Phil with id: 1 START thinking
+******I am,2, eating, how many talking: 0
+how many is eating: 1 enough chopstick: true
+Phil with id: 2 START eating
+Phil with id: 2 FINISH eating
+Phil with id: 2 START thinking
+******I am,3, eating, how many talking: 0
+how many is eating: 1 enough chopstick: true
+Phil with id: 3 START eating
+Phil with id: 3 FINISH eating
+Phil with id: 3 START thinking
+Phil with id: 3 FINISH thinking
+************random value: 2 for Thread: 3
+People never eat: 0 is phils id: 3 eaten: ? true
+******I am,3, eating, how many talking: 0
+how many is eating: 1 enough chopstick: true
+Phil with id: 3 START eating
+Phil with id: 1 FINISH thinking
+************random value: 2 for Thread: 1
+People never eat: 0 is phils id: 1 eaten: ? true
+Phil with id: 2 FINISH thinking
+************random value: 1 for Thread: 2
+People never eat: 0 is phils id: 2 eaten: ? true
+Phil with id: 3 FINISH eating
+Phil with id: 3 START thinking
+******I am,2, eating, how many talking: 0
+how many is eating: 1 enough chopstick: true
+Phil with id: 2 START eating
+Phil with id: 2 FINISH eating
+Phil with id: 2 START thinking
+******I am,1, eating, how many talking: 0
+how many is eating: 1 enough chopstick: true
+Phil with id: 1 START eating
+Phil with id: 3 FINISH thinking
+************random value: 2 for Thread: 3
+People never eat: 0 is phils id: 3 eaten: ? true
+Phil with id: 1 FINISH eating
+Phil with id: 1 START thinking
+******I am,3, eating, how many talking: 0
+how many is eating: 1 enough chopstick: true
+Phil with id: 3 START eating
+Phil with id: 1 FINISH thinking
+************random value: 3 for Thread: 1
+People never eat: 0 is phils id: 1 eaten: ? true
+Phil with id: 2 FINISH thinking
+************random value: 3 for Thread: 2
+Phil with id: 3 FINISH eating
+Phil with id: 3 START thinking
+******I am,1, eating, how many talking: 0
+how many is eating: 1 enough chopstick: true
+Phil with id: 1 START eating
+Phil with id: 3 FINISH thinking
+************random value: 2 for Thread: 3
+People never eat: 0 is phils id: 3 eaten: ? true
+Phil with id: 1 FINISH eating
+Phil with id: 1 START thinking
+******I am,3, eating, how many talking: 0
+how many is eating: 1 enough chopstick: true
+Phil with id: 3 START eating
+Phil with id: 1 FINISH thinking
+************random value: 3 for Thread: 1
+Phil with id: 3 FINISH eating
+Phil with id: 3 START thinking
+Phil with id: 3 FINISH thinking
+************random value: 2 for Thread: 3
+People never eat: 0 is phils id: 3 eaten: ? true
+******I am,3, eating, how many talking: 0
+how many is eating: 1 enough chopstick: true
+Phil with id: 3 START eating
+Phil with id: 3 FINISH eating
+Phil with id: 3 START thinking
+Phil with id: 3 FINISH thinking
+************random value: 2 for Thread: 3
+All philosophers have left. System terminates normally.
+
+C:\Users\14389\Downloads\c346_W20_PA3\pa3-distro>
